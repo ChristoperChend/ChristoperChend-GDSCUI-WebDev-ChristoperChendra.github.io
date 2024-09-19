@@ -6,3 +6,5 @@ categori merupakan tugas kita masuk kedalam kategori apa
 jika tidak ada categori yang kita inginkan, bisa menambahkan categori baru sesuai keinginan user
 kita juga bisa memasukkan deadline tanggal dan waktu 
 filter bisa kita gunakan jika kita ingin melihat categori yang kita inginkan saja
+
+LIVE SERVER: https://christoperchend.github.io/ChristoperChend-GDSCUI-WebDev-ChristoperChendra.github.io/
